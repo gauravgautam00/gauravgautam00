@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgautam00&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgautam00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravgautam00" alt="gauravgautam00" /></a> </p>
-
 - 🔭 I’m currently working on **Quire Flow**
 
 - 🌱 I’m currently learning **React , Express.js , Socket.js , DBMS**
